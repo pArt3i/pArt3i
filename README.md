@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Pablo Díaz Diez
@@ -54,6 +53,7 @@ Me gusta construir cosas desde cero, entender cómo funcionan los sistemas y apr
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Herramientas**
 
@@ -88,6 +88,16 @@ Tienda online completa para productos textiles artesanales con panel de administ
 Herramienta de scraping en Python para la extracción y procesamiento automático de datos desde páginas web. Proyecto en evolución orientado al análisis de datos.
 
 [![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pArt3i)
+![Estado](https://img.shields.io/badge/Estado-En_progreso-e3a008?style=flat-square)
+
+---
+
+### 🔁 Automatización de flujos con n8n
+> **Proyecto personal · Automatización**
+
+Exploración y desarrollo de flujos de automatización con n8n, conectando servicios y automatizando tareas de forma visual. Orientado a integraciones entre APIs y procesamiento de datos.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-En_progreso-e3a008?style=flat-square)
 
 ---
